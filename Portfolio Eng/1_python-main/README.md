@@ -1,6 +1,6 @@
 # Portafolio 
 
-SITIO WEB
+WEBSITE
 
 juanojeda01.github.io/jportfolio.github.io/ 
 
