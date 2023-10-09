@@ -1,7 +1,7 @@
 # Portfolio / Portafolio 
 
 ## Excel
-![Excel logo](/05.png)
+![Excel logo](05.png)
 
 ### Sales Dashboard / Dashboard de ventas 
 
