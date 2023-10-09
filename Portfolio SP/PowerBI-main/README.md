@@ -8,7 +8,7 @@ juanojeda01.github.io/jportfolio.github.io/
 
 Proyectos 
 
-![Logo PBI](/01.jpg)
+![Logo PBI](01.jpg)
 
 ## Power BI
 
