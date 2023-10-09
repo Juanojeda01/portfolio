@@ -1,6 +1,6 @@
 # Porfolio
 
-## juanojeda01.github.io/jportfolio.github.io/
+## juanojeda01.github.io/portfolio.github.io/
 
 ### WELCOME!
 
