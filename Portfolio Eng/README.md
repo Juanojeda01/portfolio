@@ -2,6 +2,6 @@
 
 ## juanojeda01.github.io/portfolio.github.io/
 
-### WELCOME!
+### WELCOME, SELECT A FOLDER...
 
 
