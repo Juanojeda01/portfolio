@@ -10,7 +10,7 @@ Proyectos
 
 Skills projects.
 
-![SQL LOGO](/02.png)
+![SQL LOGO](02.png)
 ## SQL
 
 ### Data exploratory / Exploración de datos 
