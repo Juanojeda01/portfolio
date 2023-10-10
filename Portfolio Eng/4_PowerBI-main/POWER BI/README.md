@@ -9,7 +9,7 @@ Survey_Project.xlsx
 
 
 Construct Dashboard With Power BI
-[SS1](Screenshots/sd1.png)
+[SS1](Screenshots/db.png)
 
 
 
