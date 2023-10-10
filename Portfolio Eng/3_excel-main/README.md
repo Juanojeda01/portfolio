@@ -1,4 +1,4 @@
-# Portfolio / Portafolio 
+# Portfolio
 
 ## Excel
 ![Excel logo](05.png)
