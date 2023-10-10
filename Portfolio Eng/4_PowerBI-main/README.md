@@ -13,7 +13,7 @@ Proyectos
 ## Power BI
 
 
-Thel PBIX in this folder is a view to understand dataset
+In each folder there is a project using PowerBI
 
 
 
