@@ -1,4 +1,4 @@
-# ETL con SQLORM y Numpy 
+# ETL with SQLORM and Numpy 
 import sqlalchemy
 import numpy as np
 from sqlalchemy import Column, Integer, String, ForeignKey
