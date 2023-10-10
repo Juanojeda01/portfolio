@@ -9,6 +9,7 @@ Adventureworks SQL data set
 First Step , 
 
 Define bussines requirement,
+
 ![Table1](Screenshots/business_r.png)
 
 
@@ -27,7 +28,10 @@ Then, export results to csv
 
 Third Step, 
 
+
 Build Data Model With Power BI
+
+
 [SS4](Screenshots/dm1.png)
 
 Third Step, 
