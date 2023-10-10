@@ -6,7 +6,7 @@ Source:
 Survey_Project.xlsx
 
 
- Dashboard constructed With Power BI
+ Dashboard maded With Power BI
 
 
 ![SS1](Screenshots/db.png)
