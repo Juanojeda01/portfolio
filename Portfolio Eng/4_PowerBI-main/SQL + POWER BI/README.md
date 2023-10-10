@@ -1,4 +1,4 @@
-# Proyect using SQL + Power BI 
+# Project using SQL + Power BI 
 
 
 Dashboard creaed to analylize Data
