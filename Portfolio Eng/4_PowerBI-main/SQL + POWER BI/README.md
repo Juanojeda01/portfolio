@@ -19,7 +19,12 @@ Second step,
 Extract tables with SQL
 
 ![SS1](Screenshots/sql1.png)
+
+
 [SS](Screenshots/sql2.png)
+
+
+
 [SS3](Screenshots/sql3.png)
 
 
