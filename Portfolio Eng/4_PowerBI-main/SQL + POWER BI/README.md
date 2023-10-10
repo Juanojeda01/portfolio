@@ -39,9 +39,9 @@ Build Data Model With Power BI
 
 ![SS4](Screenshots/dm1.png)
 
-Third Step, 
+Fourth Step, 
 
-Build Data Model With Power BI
+Dashboard built
 ![SS5](Screenshots/sd1.png)
 ![SS6](Screenshots/sd2.png)
 
