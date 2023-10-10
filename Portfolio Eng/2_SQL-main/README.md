@@ -9,7 +9,7 @@ juanojeda01.github.io/portfolio.github.io/
 
 Skills projects.
 
-![SQL LOGO](/02.png)
+![SQL LOGO](02.png)
 ## SQL
 
 ### Data exploratory 
