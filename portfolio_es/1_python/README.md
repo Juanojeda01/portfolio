@@ -1,7 +1,5 @@
 # Portafolio
 
-¡Hola!
-
 ## Proyectos que utilizan Python 
 Selecciona una carpeta para visualizar cada proyecto...
 
