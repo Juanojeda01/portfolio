@@ -1,14 +1,8 @@
 # Portafolio
 
 ## Proyectos que utilizan Python 
-Selecciona una carpeta para visualizar cada proyecto...
+Selecciona una carpeta...
 
 
 ![Logo python](01.png)
-
-
-SITIO WEB
-
-juanojeda01.github.io/jportfolio.github.io/
-
 
