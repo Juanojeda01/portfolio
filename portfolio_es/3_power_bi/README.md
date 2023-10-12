@@ -1,6 +1,4 @@
-# Portafolio 
-
-¡Hola!
+# Portafolio
 
 
 ## Proyectos que utilizan Power BI
