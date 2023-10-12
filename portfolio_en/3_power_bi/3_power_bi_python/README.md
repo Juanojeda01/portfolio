@@ -13,7 +13,7 @@ Define bussines requirement,
 
 ![Table1](screeshots/01.png)
 
-![Table2](sreeshots/02.png)
+![Table2](screeshots/02.png)
 
 Second step, 
 
