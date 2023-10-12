@@ -1,7 +1,7 @@
 # Portafolio
 
 ### ¡Bienvenido!
-Seleccione una carpeta para comenzar...
+Seleccione una carpeta de skill para comenzar...
 
 
 
