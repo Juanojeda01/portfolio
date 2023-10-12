@@ -1,9 +1,8 @@
 # Portfolio 
 
-Hi!
 
 ### Projects using Power BI
-Please select a folder to visualize each project
+Please select a folder to visualize each project...
 
 
 ![Logo PBI](01.jpg)
