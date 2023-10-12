@@ -6,7 +6,7 @@ Source:
 Adventureworks SQL data set
 
 
-Primer paso , 
+Primer paso, 
 
 Definir los requisitos del negocio,
 
@@ -19,14 +19,17 @@ Definir los requisitos del negocio,
 
 Segundo paso, 
 
-Proceso ETLcon python
+Proceso ETL con python
 
-Por favor mire el archivo ETL.ipynb...
+Por favor mire el archivo 
+ETL.ipynb
 
 
 Tercer paso, 
 
 Construcción del Dasboard
+
+
 ![SS](screeshots/03.png)
 
 
