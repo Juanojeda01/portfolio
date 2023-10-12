@@ -4,7 +4,7 @@
 
 
 ## Proyectos que utilizan Power BI
-Seleccione una carpeta para visualizar cada proyecto
+Seleccione una carpeta para visualizar cada proyecto...
 
 
 ![Logo PBI](01.jpg)
