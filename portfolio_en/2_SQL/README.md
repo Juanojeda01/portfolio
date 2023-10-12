@@ -2,12 +2,7 @@
 
 
 ### Projects using SQL
-Please select a folder to visualize each project...
+Please select a folder..
 
 
 ![SQL LOGO](02.png)
-
-
-WEBSITE
-
-juanojeda01.github.io/jportfolio.github.io/
