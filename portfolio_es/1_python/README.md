@@ -2,7 +2,7 @@
 
 ¡Hola!
 
-### Proyectos usando Python 
+## Proyectos que usan Python 
 Por favor selecciona una carpeta para visualizar cada proyecto
 
 
