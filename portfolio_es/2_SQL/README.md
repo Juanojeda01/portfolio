@@ -3,7 +3,7 @@
 ¡Hola!
 
 ## Proyectos que utilizan SQL
-Seleccione una carpeta para visualizar cada proyecto
+Seleccione una carpeta para visualizar cada proyecto...
 
 
 ![SQL LOGO](02.png)
