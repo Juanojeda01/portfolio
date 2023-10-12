@@ -6,8 +6,6 @@
 Por favor selecciona una carpeta para visualizar cada proyecto
 
 
-¡Saludos!
-
 ![Logo python](01.png)
 
 
