@@ -6,9 +6,6 @@ Hi!
 Please select a folder to visualize each project
 
 
-Best regards!
-
-
 ![Logo PBI](01.jpg)
 
 
