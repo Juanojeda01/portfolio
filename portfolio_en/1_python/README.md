@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Projects using Python 
-Please select a folder...
+Select a folder...
 
 
 ![Logo python](01.png)
