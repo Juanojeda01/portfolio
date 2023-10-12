@@ -11,10 +11,9 @@ First Step ,
 Define bussines requirement,
 
 
-![Table1](Screenshots/01.png)
+![Table1](screeshots/01.png)
 
-![Table2](Screenshots/02.png)
-
+![Table2](sreeshots/02.png)
 
 Second step, 
 
@@ -29,6 +28,6 @@ Third Step,
 Dashboard Construction
 
 
-![SS](screenshots/03.png)
+![SS](screeshots/03.png)
 
 
