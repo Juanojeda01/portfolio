@@ -1,9 +1,8 @@
 # Portfolio  
 
-Hi!
 
 ### Projects using SQL
-Please select a folder to visualize each project
+Please select a folder to visualize each project...
 
 
 ![SQL LOGO](02.png)
