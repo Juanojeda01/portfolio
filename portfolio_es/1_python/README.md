@@ -3,7 +3,7 @@
 ¡Hola!
 
 ## Proyectos que utilizan Python 
-Por favor selecciona una carpeta para visualizar cada proyecto...
+Selecciona una carpeta para visualizar cada proyecto...
 
 
 ![Logo python](01.png)
