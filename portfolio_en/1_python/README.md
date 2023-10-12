@@ -1,6 +1,4 @@
-# Portfolio 
-
-Hi!
+# Portfolio
 
 ### Projects using Python 
 Please select a folder to visualize each project
