@@ -6,8 +6,6 @@
 Seleccione una carpeta para visualizar cada proyecto
 
 
-¡Saludos!
-
 ![SQL LOGO](02.png)
 
 
