@@ -1,4 +1,4 @@
-# Portafolio 
+# Portfolio 
 
 ## Proyectos que utilizan Power BI
 Seleccione una carpeta para visualizar cada proyecto
