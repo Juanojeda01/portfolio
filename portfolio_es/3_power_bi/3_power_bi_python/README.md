@@ -10,9 +10,11 @@ Primer paso ,
 
 Definir los requisitos del negocio,
 
-![Table1](Screeshots/01.png)
 
-![Table2](Screeshots/02.png)
+![Table1](screeshots/01.png)
+
+
+![Table2](screeshots/02.png)
 
 
 Segundo paso, 
