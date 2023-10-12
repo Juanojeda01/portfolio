@@ -1,6 +1,6 @@
 # Portfolio
 
-## Excel
+## Proyectos que utilizan Excel
 ![Excel logo](05.png)
 
 ### Dashboard de ventas 
