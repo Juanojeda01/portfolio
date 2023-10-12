@@ -1,6 +1,6 @@
 # Portfolio  
 
-!Hola!
+¡Hola!
 
 ## Proyectos que utilizan SQL
 Seleccione una carpeta para visualizar cada proyecto
