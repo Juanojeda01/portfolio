@@ -20,8 +20,7 @@ Definir los requisitos del negocio,
 Segundo paso, 
 
 Proceso ETL con python
-
-Por favor mire el archivo 
+ 
 ETL.ipynb
 
 
