@@ -2,7 +2,7 @@
 
 
 ### Projects using SQL
-Select a folder..
+Select a folder...
 
 
 ![SQL LOGO](02.png)
