@@ -1,15 +1,16 @@
 # Proyect using Power BI 
 
 
-Dashboard created to analylize Data
+Dashboard created analyze Churn Data Clasification model
 Source:
-Survey_Project.xlsx
+tbl_hr_data
+tbl_new_employees
 
 
- Dashboard maded With Power BI
+ Dashboard maded With Google Looker Studio
 
 
-![SS1](Screenshots/db.png)
+![SS1](Screenshots/report.png)
 
 
 
