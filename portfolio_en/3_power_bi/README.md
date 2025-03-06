@@ -1,7 +1,7 @@
 # Portfolio 
 
 
-### Projects using Power BI
+### Projects using BI tools
 Select a folder...
 
 
