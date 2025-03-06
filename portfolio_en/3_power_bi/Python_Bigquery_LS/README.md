@@ -1,4 +1,4 @@
-# Proyect using
+# Proyect using Python, G Bigquery, G Looker Studio 
 Python (ML Data Model)
 G BigQuery(Data warehousing)
 G LookerStudio(Data Visualization)
