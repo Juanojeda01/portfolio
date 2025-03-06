@@ -13,7 +13,7 @@ tbl_new_employees
  Dashboard maded With Google Looker Studio
 
 
-![SS1](portfolio_en/3_power_bi/Python_Bigquery_LS/screenshots/report.png)
+![SS1](Python_Bigquery_LS/screenshots/report.png)
 
 
 
